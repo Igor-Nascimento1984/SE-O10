@@ -29,7 +29,7 @@ public class Program {
 		System.out.println("VALOR TOTAL: " + soma);
 		System.out.printf("MEDIA DOS VALORES: %.2f%n", media);
 		System.out.println("ABAIXO DA MEDIA:");
-		
+
 		for (int i = 0; i < n; i++) {
 			if (media > vect[i]) {
 				System.out.println(vect[i]);

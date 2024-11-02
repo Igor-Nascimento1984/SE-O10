@@ -24,7 +24,7 @@ public class Program {
 			if (vect[i] > maiorNumero) {
 
 				maiorNumero = vect[i];
-				posicaoMaior = i+1;
+				posicaoMaior = i + 1;
 
 			}
 		}
