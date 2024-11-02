@@ -2,9 +2,9 @@ package entities12;
 
 public class People {
 
-	String nome;
-	double nota01;
-	double nota02;
+	private String nome;
+	private double nota01;
+	private double nota02;
 
 	public People() {
 
