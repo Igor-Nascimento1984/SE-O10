@@ -21,7 +21,7 @@ public class Program {
 			edd.nextLine();
 			String nome = edd.nextLine();
 			System.out.print("EMAIL: ");
-			String email = edd.next();
+			String email = edd.nextLine();
 			System.out.print("QUARTO: ");
 			int quarto = edd.nextInt();
 
